@@ -3,8 +3,8 @@
 
 
 Overall Notes
-- Want to use Adjacency Matrix to show the squares and where you can move
-- Multiple players should be allowed
+	- Want to use Adjacency Matrix to show the squares and where you can move
+	- Multiple players should be allowed
 	- One person designated as Game Master/ God
 	- Maybe Create a player version
 	
@@ -24,7 +24,7 @@ Features
 	- (God) Shop Tracker
 	- If health == 0, say player is dead
 	- Random Board Generator
-	
+  
 
 Implementation
 	- At Startup, will generate a blank game board with numbered squares
@@ -57,5 +57,3 @@ Implementation
 		○ winner : Tells the computer that a winner has been declared, and asks for player number
 		○ kill : ask for player number and reduce player to 0 hitpoints
 		○ Revive : ask god how many hitpoints to revive player to
-		
-		
