@@ -3,8 +3,8 @@
 
 
 Overall Notes
-	- Want to use Adjacency Matrix to show the squares and where you can move
-	- Multiple players should be allowed
+- Want to use Adjacency Matrix to show the squares and where you can move
+- Multiple players should be allowed
 	- One person designated as Game Master/ God
 	- Maybe Create a player version
 	
