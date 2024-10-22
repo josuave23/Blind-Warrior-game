@@ -44,16 +44,16 @@ Implementation
 		§ Generates a random enemy with stats
 ○ Shop
 - Commands for functions
-	○ addItem : Add an Item to the list
-	○ changePlayerItem : allows changes to the stats of a player's Item
-	○ changeListItem : allows changes to the states of a listed item
-	○ health : Prompts god to choose a player or enemy, then asks for the change in health as " +4  / -2 "
-	○ gold : changes a player's gold amount (same as health)
-	○ inventory : Change a players inventory, prompts for player, inventory type, and spot to change
-	○ Trade : swaps items between 2 players
-	○ addEnemy :adds an enemy spot on the map
-	○ addEvent : adds an event spot on the map
-	○ addShop : adds a shop spot on the map
-	○ winner : Tells the computer that a winner has been declared, and asks for player number
-	○ kill : ask for player number and reduce player to 0 hitpoints
-	○ Revive : ask god how many hitpoints to revive player to
+○ addItem : Add an Item to the list
+○ changePlayerItem : allows changes to the stats of a player's Item
+○ changeListItem : allows changes to the states of a listed item
+○ health : Prompts god to choose a player or enemy, then asks for the change in health as " +4  / -2 "
+○ gold : changes a player's gold amount (same as health)
+○ inventory : Change a players inventory, prompts for player, inventory type, and spot to change
+○ Trade : swaps items between 2 players
+○ addEnemy :adds an enemy spot on the map
+○ addEvent : adds an event spot on the map
+○ addShop : adds a shop spot on the map
+○ winner : Tells the computer that a winner has been declared, and asks for player number
+○ kill : ask for player number and reduce player to 0 hitpoints
+○ Revive : ask god how many hitpoints to revive player to
